@@ -1,0 +1,46 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    margin-bottom: 2rem;
+}
+
+.card {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.card-header {
+    background-color: #f8f9fa;
+    border-bottom: none;
+}
+
+.btn-primary {
+    width: 100%;
+}
+
+.table-responsive {
+    margin: 0;
+}
+
+.table {
+    margin-bottom: 0;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.text-truncate {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.input-group .form-control-sm {
+    font-size: 0.875rem;
+}
+
+.badge {
+    font-size: 0.875rem;
+} 
